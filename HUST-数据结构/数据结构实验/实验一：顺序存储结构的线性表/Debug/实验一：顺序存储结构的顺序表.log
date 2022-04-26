@@ -1,0 +1,13 @@
+﻿  实验一：顺序存储结构的顺序表.cpp
+W:\HUST\HUST-数据结构（COSC262）\实验1\实验一：顺序存储结构的顺序表\实验一：顺序存储结构的顺序表.cpp(256,17): warning C4326: “main”的返回类型应为“int”而非“void”
+W:\HUST\HUST-数据结构（COSC262）\实验1\实验一：顺序存储结构的顺序表\实验一：顺序存储结构的顺序表.cpp(261,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\HUST\HUST-数据结构（COSC262）\实验1\实验一：顺序存储结构的顺序表\实验一：顺序存储结构的顺序表.cpp(277,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\HUST\HUST-数据结构（COSC262）\实验1\实验一：顺序存储结构的顺序表\实验一：顺序存储结构的顺序表.cpp(353,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\HUST\HUST-数据结构（COSC262）\实验1\实验一：顺序存储结构的顺序表\实验一：顺序存储结构的顺序表.cpp(371,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\HUST\HUST-数据结构（COSC262）\实验1\实验一：顺序存储结构的顺序表\实验一：顺序存储结构的顺序表.cpp(389,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\HUST\HUST-数据结构（COSC262）\实验1\实验一：顺序存储结构的顺序表\实验一：顺序存储结构的顺序表.cpp(407,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\HUST\HUST-数据结构（COSC262）\实验1\实验一：顺序存储结构的顺序表\实验一：顺序存储结构的顺序表.cpp(425,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\HUST\HUST-数据结构（COSC262）\实验1\实验一：顺序存储结构的顺序表\实验一：顺序存储结构的顺序表.cpp(428,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\HUST\HUST-数据结构（COSC262）\实验1\实验一：顺序存储结构的顺序表\实验一：顺序存储结构的顺序表.cpp(447,6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+W:\HUST\HUST-数据结构（COSC262）\实验1\实验一：顺序存储结构的顺序表\实验一：顺序存储结构的顺序表.cpp(259,38): warning C4101: “elem”: 未引用的局部变量
+  实验一：顺序存储结构的顺序表.vcxproj -> W:\HUST\HUST-数据结构（COSC262）\实验1\实验一：顺序存储结构的顺序表\Debug\实验一：顺序存储结构的顺序表.exe

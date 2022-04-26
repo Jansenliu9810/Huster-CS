@@ -1,0 +1,29 @@
+﻿  lab3.cpp
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(12,1): warning C4005: “OVERFLOW”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math.h(965): message : 参见“OVERFLOW”的前一个定义
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(170,12): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(170,12): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(170,12): message : 缺失的可变参数 2 为格式字符串“%c”所需
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(170,12): message : 此参数用作缓冲区大小
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(189,12): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(189,12): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(189,12): message : 缺失的可变参数 2 为格式字符串“%c”所需
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(189,12): message : 此参数用作缓冲区大小
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(207,12): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(207,12): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(207,12): message : 缺失的可变参数 2 为格式字符串“%c”所需
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(207,12): message : 此参数用作缓冲区大小
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(242,12): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(242,12): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(242,12): message : 缺失的可变参数 2 为格式字符串“%c”所需
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(242,12): message : 此参数用作缓冲区大小
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(248,12): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(248,12): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(248,12): message : 缺失的可变参数 2 为格式字符串“%c”所需
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(248,12): message : 此参数用作缓冲区大小
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(282,12): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(282,12): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(282,12): message : 缺失的可变参数 2 为格式字符串“%c”所需
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(282,12): message : 此参数用作缓冲区大小
+W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\lab3.cpp(407): warning C4715: “ReDestroyBiTree”: 不是所有的控件路径都返回值
+  lab3.vcxproj -> W:\HUST\HUST-数据结构（COSC262）\数据结构实验\实验三：二叉树的存储结构\lab3\Debug\lab3.exe
