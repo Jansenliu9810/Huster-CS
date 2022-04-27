@@ -1,0 +1,3 @@
+W:\Programming\COSC264-计算机通信与网络实验项目（HUST）\实验二（可靠传输协议）\GBN协议\StopWait\Debug\StopWait.exe
+W:\Programming\COSC264-计算机通信与网络实验项目（HUST）\实验二（可靠传输协议）\GBN协议\StopWait\Debug\StopWait.pdb
+C:\Users\Jansen\Desktop\Debug\StopWait.pdb
